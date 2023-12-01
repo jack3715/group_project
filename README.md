@@ -4,6 +4,7 @@
     1. Equities
     2. Fixed Income
     3. Crypto
+    *3-5 securities per  assset class
 
 ## Analyis will cover January 1, 2015 to Septemeber 30, 2023
     Precovid: January 1, 2015 to December 31, 2019
