@@ -27,6 +27,14 @@
     5. Rolling Averages, Sharpe, Correlation, etc..
 
 
+## Presentation
+    1. Discuss past performance of each asset class over the timeframe and underlying basket of assets
+    2. Discuss forcast model
+    3. What we learned
+    4. Suggestions
+        -Dos and Donts
+
+
 
 
 
