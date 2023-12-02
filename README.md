@@ -9,7 +9,7 @@
 ## Analyis will cover January 1, 2015 to Septemeber 30, 2023
     Precovid: January 1, 2015 to December 31, 2019
     Covid: January 1, 2020 to December 31, 2021
-    Post Covid: January 1, Septemeber 30, 2023
+    Post Covid: January 1 2022, Septemeber 30, 2023
 
 ## Points of interest:
     1. Interest rate hikes
