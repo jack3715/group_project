@@ -2,9 +2,9 @@
 
 ## Run an analysis on 3 different asset clases
     1. Equities
-    2. Fixed Income
+    2. Commodities
     3. Crypto
-    *3-5 securities per  assset class
+  
 
 ## Analysis will cover January 1, 2015 to Septemeber 30, 2023
     Precovid: January 1, 2015 to December 31, 2019
@@ -21,9 +21,9 @@
         -Ukraine/Russia/Wars
 
 ## Metrics
-    1. Return over period
-    2. Volatility
-    3. Quarterly and annual performance
+    1. Daily Return
+    2. Cumalative Return
+    3. Volatility
     4. Highs/Lows
     5. Rolling Averages, Sharpe, Correlation, etc..
 
@@ -32,8 +32,7 @@
     1. Discuss past performance of each asset class over the timeframe and underlying basket of assets
     2. Discuss forcast model
     3. What we learned
-    4. Suggestions
-        -Dos and Donts
+
 
 
 
